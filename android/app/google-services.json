@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773081783965",
+    "firebase_url": "https://test-8e577.firebaseio.com",
+    "project_id": "test-8e577",
+    "storage_bucket": "test-8e577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773081783965:android:446a82a11c044f12",
+        "android_client_info": {
+          "package_name": "com.yourcompany.forms2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773081783965-gaf6s0gs573q3fgo3epf0muu26jqdhma.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "773081783965-gaf6s0gs573q3fgo3epf0muu26jqdhma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVEqXK3cpNTrEW7-Mmk_DfSm-W90K2kbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
